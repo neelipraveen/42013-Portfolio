@@ -1,5 +1,5 @@
 This is my portfolio.
-You can see this website here: https://neelipraveen.github.io/42013-Portfolio/
+You can see this website here: https://42013-portfolio.netlify.app/
 
 I have made this with the help of a youtube tutorial which you can find it here "Responsive Portfolio Website From Scratch" from How to become a developer channel.
 
